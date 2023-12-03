@@ -1,0 +1,22 @@
+@media screen and (max-width: 2000px) {
+    p {
+        font-size: 1rem;
+        line-height: 1.8rem;
+    }
+
+    .grid-3 {
+        gap: 1rem;
+    }
+
+    .pre-title {
+        margin: auto;
+    }
+
+    .burger {
+        display: block;
+        cursor: pointer;
+    }
+
+    
+}
+
